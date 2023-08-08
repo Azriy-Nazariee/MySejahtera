@@ -1,0 +1,13 @@
+print('-'*30)
+print('COVID-19 Vaccine Appointment')
+print('-'*30)
+print('')
+#print(f'Dear {userdata[i][0]}, your COVID-19 vaccine appointment details are as below:')
+#print(f'Date: {}')
+#print(f'Time: {}')
+#print(f'Appointment Location: {}')
+print('Would you be able to attend your appointment as scheduled? Kidly answer with "Y" for yes or "N" for no')
+ans = (input('Enter Your Answer : '))
+print('')
+import outuser
+print('')
